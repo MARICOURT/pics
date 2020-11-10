@@ -5,7 +5,6 @@ import ImageList from './ImageList';
 
 class App extends React.Component {
     state = { images: [] };
-
     /** 'async onSearchSubmit(term){ ... await }' 
      * Cette méthode marche également mais lorsqu'on change le state avec 'this.setState({ images: response.data.results});' on obtient l'erreur suivant :
      * 'this.setState is not a function'

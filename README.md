@@ -16,13 +16,13 @@
 >* Optimiser la récupération des images à l'aide d'une méthodes/ une requête asynchrone
 >
 >* Appréhender le système de grille (grid) en CSS
->
->* Créer un rendu badass !!!
 
 ## Aspect Visuel
 
-![cars](/docs/cars.png)
+![pics](/docs/pics.gif)
+
+## Installation
+> Pour pouvoir l'essayer, il vous faut React : [React](https://reactjs.org/docs/getting-started.html)
 
 ## Références
 > API pour les photos : [Unsplash](https://unsplash.com/documentation#search-photos)
- 
